@@ -1,1 +1,1 @@
-# PyC - Python Compiler using C
+# Python Compiler using C
